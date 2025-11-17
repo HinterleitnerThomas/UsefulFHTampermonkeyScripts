@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         eLearning Autologin
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-17_2
+// @version      2025-11-17_3
 // @description  Clicks the login button on eLearning
 // @author       You
 // @match        https://elearning.fh-ooe.at/login/index.php*
