@@ -17,7 +17,7 @@
 
     if(window.location.host == "elearning.fh-ooe.at") {
         // Button "FH OÖ Login" (Hochschulangehörige)
-        document.getElementsByClassName("login-identityprovider-btn")[0].click();
+        document.getElementsByClassName("btn btn-primary btn-block")[0].click();
     }
 
     // If not logged in with Microsoft -> This should do nothing
